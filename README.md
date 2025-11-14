@@ -5,7 +5,7 @@ ThinkPHP 8
 
 ## 特性
 
-* 基于PHP`8.0+`重构
+* 基于PHP`8.0+`重构 chonggou
 * 升级`PSR`依赖 yilai
 * 依赖`think-orm`3.0+版本
 * 全新的`think-dumper`服务，支持远程调试
