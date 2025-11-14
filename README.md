@@ -6,7 +6,7 @@ ThinkPHP 8
 ## 特性
 
 * 基于PHP`8.0+`重构
-* 升级`PSR`依赖
+* 升级`PSR`依赖 yilai
 * 依赖`think-orm`3.0+版本
 * 全新的`think-dumper`服务，支持远程调试
 * 支持`6.0`/`6.1`无缝升级
@@ -75,3 +75,4 @@ ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
+
